@@ -8,7 +8,7 @@
   -includes required standard libraries,defined libraries,arrays used in all other .c files and info     for colours
 
 **main.c**
-  -contains code which calls for prompting the shell,take input,split it into tokens as required and call for implmenting corresponding command
+  -contains code which calls for prompting the shell,take input,split it into tokens as required and call for implmenting corresponding command.And also contains code for Autocomplete.
 
 **shellprompt.c**
   -prints the appropriate shell prompt at the instant
